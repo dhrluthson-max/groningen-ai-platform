@@ -1,0 +1,1 @@
+def inject_global_css(): import streamlit as st; st.markdown("<style>body{background-color:#030712;}</style>", unsafe_allow_html=True)
